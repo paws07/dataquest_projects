@@ -1,2 +1,2 @@
 # dataquest_projects
-Projects completed in lieu of data analyst certification
+Projects completed while pursuing a Data Analyst certification at dataquest.io
